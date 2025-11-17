@@ -1,1 +1,20 @@
+# Internship Task 3 — Linear Regression
+**Author:** Shreshtha Bhusanur  
+**Dataset:** Housing Price Prediction (Kaggle)
+
+## Objective
+Implement simple & multiple linear regression models, evaluate using MAE, MSE and R², and interpret coefficients.
+
+## Files
+- `task3_linear_regression.ipynb` — notebook with code and explanations  
+- `housing.csv` — dataset (Kaggle)  
+- `plots/` — PNGs of regression line, residuals, etc.  
+- `models/` — saved models (optional)
+
+## How to run
+1. Clone repo and navigate to task3:
+   ```bash
+   git clone https://github.com/shreshthabhusanur/internship-task1-shreshtha.git
+   cd internship-task1-shreshtha/task3
+   jupyter lab task3_linear_regression.ipynb
 
