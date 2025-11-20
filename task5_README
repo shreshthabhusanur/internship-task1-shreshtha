@@ -1,1 +1,6 @@
-
+For Task 5, I implemented Decision Tree and Random Forest models using the Breast Cancer dataset from Scikit-Learn.
+I trained the Decision Tree classifier, visualized the tree, and analyzed overfitting by limiting the tree depth.
+Then I trained and evaluated a Random Forest model and compared its accuracy with the Decision Tree. 
+I also interpreted feature importance and performed 5-fold cross-validation for model reliability. 
+Random Forest outperformed the single tree, showing better generalization. 
+All code, outputs, and the README have been added to my GitHub repository.
