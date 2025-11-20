@@ -4,3 +4,7 @@ Then I trained and evaluated a Random Forest model and compared its accuracy wit
 I also interpreted feature importance and performed 5-fold cross-validation for model reliability. 
 Random Forest outperformed the single tree, showing better generalization. 
 All code, outputs, and the README have been added to my GitHub repository.
+scikit-learn
+pandas
+numpy
+matplotlib
