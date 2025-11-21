@@ -1,1 +1,10 @@
-
+This project is part of my AI & ML Internship and focuses on implementing the K-Nearest Neighbors (KNN) algorithm for classification 
+using the Iris dataset from Scikit-learn.
+I began by loading the dataset and normalizing the features using StandardScaler, since KNN is a distance-based algorithm and requires 
+all features to be on the same scale. 
+After performing an 80/20 train–test split, I trained a KNN classifier starting with K=3 and evaluated the model using accuracy, confusion 
+matrix, and a classification report. 
+I then experimented with multiple K values (1–20) to observe how K affects performance and plotted the accuracy vs K graph to determine the 
+best K. Finally, I visualized decision boundaries using two features to show how KNN separates different classes. 
+Through this task, I learned how instance-based learning works, why normalization is essential, how K affects bias–variance, 
+and how to interpret KNN results. The repository includes the complete code, accuracy results, visualizations, and this README.
